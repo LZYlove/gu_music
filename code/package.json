@@ -15,7 +15,8 @@
     "shelljs": "^0.4.0"
   },
   "cordovaPlugins": [
-    "cordova-plugin-whitelist"
+    "cordova-plugin-whitelist",
+    "cordova-plugin-splashscreen"
   ],
   "cordovaPlatforms": [
     "android"

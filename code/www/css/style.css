@@ -1,6 +1,9 @@
 /* Splash page stylings */
 .splash-page {
-  background:url(/img/spa.jpg);
+  background: -moz-linear-gradient(225deg, #ace, #f96);
+  background: -webkit-gradient(linear,100% 0%,0 100%,from(#ace),to(#f96));
+  background: -webkit-linear-gradient(225deg, #ace, #f96);
+  background: -o-linear-gradient(225deg, #ace, #f96);;
   background-size: cover;
   background-repeat: no-repeat;
 }
