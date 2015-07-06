@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.ionicframework.songhop616624" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>songhop</name>
+<widget id="com.ionicframework.songhop616624" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>谷锋音乐</name>
   <description>&#xD;
         An Ionic Framework and Cordova project.&#xD;
     </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">&#xD;
-      Ionic Framework Team&#xD;
+  <author email="hi@gufeng" href="http://ionicframework.com/">&#xD;
+      gufeng Team&#xD;
     </author>
   <content src="index.html"/>
   <access origin="*"/>
